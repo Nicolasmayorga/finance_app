@@ -1,0 +1,24 @@
+# Directorio del entorno virtual
+env/
+
+# Archivos de bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Directorios de Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+
+# Archivos y directorios de desarrollo
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
